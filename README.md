@@ -10,7 +10,12 @@ The script is designed to scan a local network, visualize the network topology, 
   - Provides insights into connected devices and potential vulnerabilities.
 - Educational Purposes:
   - Demonstrates integration of network scanning, graph visualization, and real-time monitoring using Python libraries.
-  
+# output :
+
+## networkboss.py
+![alt text](https://github.com/siddhant-pawar/whos_on_my_networks/blob/main/op/ogss.jpeg)
+## networkscanandmon.py
+![alt text](https://github.com/siddhant-pawar/whos_on_my_networks/blob/main/op/modss.jpeg)
 ## Dependencies:
 - External Dependencies:
   - Requires ```nmap``` for network scanning (download from https://nmap.org/download).
